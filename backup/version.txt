@@ -1,0 +1,2 @@
+version: 2.2.0
+major release | minor release | patch release
